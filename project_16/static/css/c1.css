@@ -1,0 +1,13 @@
+body
+{
+    background: linear-gradient(45deg,yellow,green,blue);
+
+}
+h1
+{
+    color: aqua;
+}
+img
+{
+    border-radius: 20px;
+}
